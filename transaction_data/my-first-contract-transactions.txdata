@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "myFirstContractExists",
+        "transactionLabel": "A test myFirstContractExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMyFirstContract",
+        "transactionLabel": "A test createMyFirstContract transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMyFirstContract",
+        "transactionLabel": "A test readMyFirstContract transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMyFirstContract",
+        "transactionLabel": "A test updateMyFirstContract transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMyFirstContract",
+        "transactionLabel": "A test deleteMyFirstContract transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
